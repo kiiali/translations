@@ -37,7 +37,7 @@
     <message>
         <location filename="../fervor/fvupdater.cpp" line="341"/>
         <source>Saved successfully.</source>
-        <translation>儲存成功。</translation>
+        <translation>已儲存成功。</translation>
     </message>
     <message>
         <location filename="../fervor/fvupdater.cpp" line="406"/>
@@ -47,7 +47,7 @@
     <message>
         <location filename="../fervor/fvupdater.cpp" line="500"/>
         <source>Unzipped successfully.</source>
-        <translation>解壓成功。</translation>
+        <translation>已解壓成功。</translation>
     </message>
     <message>
         <location filename="../fervor/fvupdater.cpp" line="963"/>
@@ -100,7 +100,7 @@ Network Error: %1</source>
         <location filename="../fervor/fvupdater.cpp" line="804"/>
         <source>There is something wrong with the update feed (%1).
 Please contact the developer.</source>
-        <translation>更新來源出錯啦 (%1)。請聯絡開發者。</translation>
+        <translation>更新來源出錯 (%1)。請聯絡開發者。</translation>
     </message>
 </context>
 <context>
@@ -108,12 +108,12 @@ Please contact the developer.</source>
     <message>
         <location filename="../helpdialog.cpp" line="72"/>
         <source>Help</source>
-        <translation>求助</translation>
+        <translation>幫助</translation>
     </message>
     <message>
         <location filename="../helpdialog.cpp" line="120"/>
         <source>Visit Online</source>
-        <translation>線上檢視</translation>
+        <translation>在線檢視</translation>
     </message>
     <message>
         <location filename="../helpdialog.cpp" line="201"/>
@@ -133,7 +133,7 @@ Please contact the developer.</source>
     <message>
         <location filename="../helpdialog.cpp" line="213"/>
         <source>Advanced Configs</source>
-        <translation>進階設定</translation>
+        <translation>進階組態</translation>
     </message>
     <message>
         <location filename="../helpdialog.cpp" line="218"/>
@@ -166,7 +166,7 @@ Please contact the developer.</source>
     <message>
         <location filename="../keybindingmodel.cpp" line="27"/>
         <source>Show/Hide the captured cursor</source>
-        <translation>顯示/隱藏取得的游標</translation>
+        <translation>顯示/隱藏擷取的游標</translation>
     </message>
     <message>
         <location filename="../keybindingmodel.cpp" line="29"/>
@@ -1842,7 +1842,7 @@ However, in the meantime, the alpha channel of the image is lost.</source>
     <message>
         <location filename="../optionsdialog.ui" line="1187"/>
         <source>Ignore the left Windows key when snipping.</source>
-        <translation>擷圖時封鎖左Win鍵。</translation>
+        <translation>擷圖時封鎖左 Win 鍵。</translation>
     </message>
     <message>
         <location filename="../optionsdialog.ui" line="1190"/>
@@ -1852,7 +1852,7 @@ However, in the meantime, the alpha channel of the image is lost.</source>
     <message>
         <location filename="../optionsdialog.ui" line="1197"/>
         <source>Ignore the right Windows key when snipping.</source>
-        <translation>擷圖時封鎖右Win鍵。</translation>
+        <translation>擷圖時封鎖右 Win 鍵。</translation>
     </message>
     <message>
         <location filename="../optionsdialog.ui" line="1200"/>
